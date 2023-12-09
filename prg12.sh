@@ -7,3 +7,4 @@ echo "Value after Pre Increment of x by executing ++x is $[++x]" #$((++x))
 echo "Value after Post Decrement of x by executing x-- is $[x--]" #$((x--))
 echo "Value after Pre Decrement of x by executing --x is $[--x]" #$((--x))
 #End of the Script
+#This script is testing Pre and Post Increment and Decrement operators
