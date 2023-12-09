@@ -27,3 +27,4 @@ res=$[num1%num2]
 #res=`expr $num1 % $num2`
 #res=$(expr $num1 % num2)
 echo "The module  is $res"
+#This is arithmetic Operations scripts
