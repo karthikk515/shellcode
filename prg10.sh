@@ -9,3 +9,4 @@ echo $val
 read -sp "ENter secret code:" code
 echo -e "\nThe secret code is :$code"
 #End
+#This is a read statement script
