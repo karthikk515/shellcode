@@ -1,3 +1,4 @@
 Hi all this is karthik im learning git push and pull
 Hello guys.....Now Im learning Jenkins.....
 Thank You for teaching GitHub
+echo "Im the owner of $(hostname)"
